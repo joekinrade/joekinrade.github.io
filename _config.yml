@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joe Kinrade"
+title                    : "Dr Joe Kinrade"
 title_separator          : "-"
 name                     : &name "Joe Kinrade"
 description              : &description "Planetary scientist at Lancaster University"
