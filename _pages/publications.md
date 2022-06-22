@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-An overview of the topics I've worked on as a middling space scientist. You can find a full list of my published works at <a href="{{ author.ocid }}"> Google Scholar. </a>
+An overview of the topics I've worked on as a middling space scientist. You can find a full list of my published works at <a href="https://scholar.google.com/citations?user=UeDZe60AAAAJ&hl=en&oi=ao"> Google Scholar</a>.
 
 ### Imaging Saturn's Ultraviolet Auroras
 
