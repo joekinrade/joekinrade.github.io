@@ -20,7 +20,7 @@ These papers examine other remote sensing-based observations of Saturn's space e
 
 * **Kinrade, J.**, Bader, A., Badman, S.V., Paranicas, C., Mitchell, D.G., Constable, D., Arridge, C.S., Cowley, S.W.H., and Provan, G. (2021). "The Statistical Morphology of Saturn’s Equatorial Energetic Neutral Atom Emission." Open access at <a href="https://doi.org/10.1029/2020GL091595"> Geophysical Research Letters</a>.
 
-*This letter highlights the first science results following a complete reworking of the ENA imagery captured by Cassini's Ion-Neutral CAmera - INCA. Equatorial projections show that - in the long term picture -  ENAs are emitted mostly from a torus region around the planet between 7-10 Rs, which is brighter on the nightside and displays a slight day-night position bias.*
+*This letter highlights the first science results following a complete reworking of the ENA imagery captured by Cassini's Ion-Neutral CAmera - INCA. Equatorial projections show that - in the long term picture -  ENAs are emitted mostly from a torus region around the planet between 7-10 Rs, which is brighter on the nightside and displays a day-night-side position offset.*
 
 ### Earth's Ionosphere: Tomographic Imaging & GNSS Scintillation
 
