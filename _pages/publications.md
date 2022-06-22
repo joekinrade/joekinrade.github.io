@@ -10,11 +10,15 @@ An overview of the topics I've worked on as a middling space scientist. You can 
 
 These papers explore how Saturn's ultraviolet auroral emissions can be used as a diagnostic for magnetospheric dynamics and weird planetary rotation effects. Mainly using images from the Hubble Space Telescope and Cassini missions.
 
+* **Kinrade, J.**, Badman, S.V., Paranicas, C., Mitchell, D.G., Arridge, C.S., Gray, R.L., Bader, A., Provan, G., Cowley, S.W.H., Martin, C.J., and Achilleos, N. (2020). "Tracking Counterpart Signatures in Saturn's Auroras and ENA Imagery During Large-Scale Plasma Injection Events." Open access at <a href="https://doi.org/10.1029/2019JA027542"> Journal of Geophysical Research: Space Physics</a>.
+
+*Using data from two instruments onboard the Cassini spacecraft, UVIS & INCA, this paper demonstrates how remote sensing imagery can be used to motion-track the signatures of magnetospheric plasma dynamics in Saturn's auroral and ENA emissions.*
+
 ### Imaging Saturn's Magnetosphere
 
 These papers examine other remote sensing-based observations of Saturn's space environment, namely kilometric radio bursts and energetic neutral atoms (ENAs). First detected at Earth, ENAs are kind of like photons, but with a mass and chemical signature. Think of them as a tracer for active plasma dynamics. They can be imaged - just like photons on a CCD - to give a picture of the global plasma structure in giant magnetospheres.
 
-* **Kinrade,J.**, Bader, A., Badman, S.V., Paranicas, C., Mitchell, D.G., Constable, D., Arridge, C.S., Cowley, S.W.H., and Provan, G. (2021). "The Statistical Morphology of Saturn’s Equatorial Energetic Neutral Atom Emission." Open access at <a href="https://doi.org/10.1029/2020GL091595"> Geophysical Research Letters</a>.
+* **Kinrade, J.**, Bader, A., Badman, S.V., Paranicas, C., Mitchell, D.G., Constable, D., Arridge, C.S., Cowley, S.W.H., and Provan, G. (2021). "The Statistical Morphology of Saturn’s Equatorial Energetic Neutral Atom Emission." Open access at <a href="https://doi.org/10.1029/2020GL091595"> Geophysical Research Letters</a>.
 
 *This letter highlights the first science results following a complete reworking of the ENA imagery captured by Cassini's Ion-Neutral CAmera - INCA. Equatorial projections show that - in the long term picture -  ENAs are emitted mostly from a torus region around the planet between 7-10 Rs, which is brighter on the nightside and displays a slight day-night position bias.*
 
